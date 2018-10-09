@@ -6,6 +6,13 @@
   "repository": "https://github.com/trunda/laravel-mix-shins.git",
   "author": "Jakub Truneček",
   "license": "MIT",
+  "keywords": [
+    "laravel",
+    "laravel mix",
+    "mix",
+    "shins",
+    "widdershins"
+  ],
   "dependencies": {
     "bluebird": "^3.5.2",
     "js-yaml": "^3.12.0",
