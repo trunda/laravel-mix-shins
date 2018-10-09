@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-shins",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Generating api from swagger yaml file",
   "main": "index.js",
   "repository": "https://github.com/trunda/laravel-mix-shins.git",
@@ -11,7 +11,10 @@
     "laravel mix",
     "mix",
     "shins",
-    "widdershins"
+    "widdershins",
+    "swagger",
+    "open api",
+    "oai"
   ],
   "dependencies": {
     "bluebird": "^3.5.2",
