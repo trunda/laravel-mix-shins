@@ -1,0 +1,15 @@
+{
+  "name": "laravel-mix-shins",
+  "version": "0.1.0",
+  "description": "Generating api from swagger yaml file",
+  "main": "index.js",
+  "repository": "https://github.com/trunda/laravel-mix-shins.git",
+  "author": "Jakub Truneček",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "js-yaml": "^3.12.0",
+    "shins": "^2.3.2-1",
+    "widdershins": "^3.6.4"
+  }
+}
